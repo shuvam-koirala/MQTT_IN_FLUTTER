@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:mqtt_in_flutter/blocs/cubit/mqtt_response_cubit.dart';
+import 'package:mqtt_in_flutter/blocs/mqtt_response_cubit/mqtt_response_cubit.dart';
 import 'package:mqtt_in_flutter/mqtt_page.dart';
 
 void main() {
